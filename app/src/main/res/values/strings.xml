@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Flights Search</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="select_airport">Select Airport</string>
+    <string name="select_price_range">Select price range</string>
+    <string name="children">children</string>
+    <string name="teens">teens</string>
+    <string name="adults">adults</string>
+    <string name="flight_date">Flight Date</string>
+    <string name="search">Search</string>
+    <string name="filter_search_results">Filter search results</string>
+</resources>
